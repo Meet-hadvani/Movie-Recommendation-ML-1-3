@@ -1,6 +1,6 @@
 # 🎬 Movie-Recommendation-ML-1-3
 
-✅ **1/3 AI Projects**  
+✅ **S.I.M.A. AI Projects**  
 This is a collaborative filtering-based movie recommendation system using **K-Nearest Neighbors (KNN)** and the **MovieLens 100K dataset**. It is a user-based recommendation engine that identifies similar users or movies based on rating behavior.
 
 ---
